@@ -9,8 +9,8 @@ Nous sommes une organisation factice travaillant actuellement sur plusieurs proj
 ## Technologies utilisées
 Nous utilisons une variété de technologies modernes dans nos projets, y compris mais sans s'y limiter :
 - **Langages de programmation** : JavaScript, PHP
-- **Frameworks** : CodeIgniter, Bootstrap
-- **Bases de données** : MySQL, MariaDB
+- **Frameworks** : CodeIgniter, VueJS
+- **Bases de données** : MySQL
 
 Nous prévoyons de travailler sur d'autres projets passionnants à l'avenir.
 
